@@ -1,4 +1,3 @@
-package Assignment_java;
 
 public class Song {
     public String title;

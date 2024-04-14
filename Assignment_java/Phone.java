@@ -1,4 +1,3 @@
-package Assignment_java;
 
 public class Phone {
     public String input;

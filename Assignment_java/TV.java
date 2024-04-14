@@ -1,5 +1,3 @@
-package Assignment_java;
-
 public class TV {
     String brand;
     int year;

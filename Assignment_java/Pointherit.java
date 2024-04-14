@@ -1,4 +1,3 @@
-package Assignment_java;
 
 class Point{
     private int x, y;

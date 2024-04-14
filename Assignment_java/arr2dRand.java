@@ -1,6 +1,3 @@
-package Assignment_java;
-
-
 public class arr2dRand {
     public static void main(String[] args){
         int arr[][] = new int[4][4];
